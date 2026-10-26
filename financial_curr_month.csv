@@ -1,0 +1,8 @@
+Account_ID,Account_Name,Department,Cost_Center,Amount
+1001-A,Software Subscriptions,Engineering,CC-101,14200.0
+1001-B,Software Subscriptions,Marketing,CC-102,3400.0
+1001-C,Software Subscriptions,Sales,CC-103,9500.0
+1001-D,Software Subscriptions,Customer Support,CC-104,2100.0
+2005-A,Office Supplies & Utilities,Corporate HQ,CC-201,3900.0
+3002-A,Professional Consulting,Legal,CC-301,15000.0
+4001-A,Marketing Campaigns,Growth,CC-401,28500.0

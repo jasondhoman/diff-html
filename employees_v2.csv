@@ -1,0 +1,8 @@
+Employee_ID,Name,Department,Role,Salary,Status
+101,Alice Smith,Engineering,Senior Software Engineer,102000,Active
+102,Bob Jones,Growth,SEO Specialist,74000,Active
+104,Diana Prince,HR,HR Generalist,72000,Active
+105,Evan Wright,Finance,Financial Analyst,85000,On Leave
+107,George Clark,Sales,Sales Representative,75000,Active
+108,Hannah Abbott,Engineering,Frontend Developer,88000,Active
+109,Ian Malcolm,Data & AI,Data Scientist,105000,Active
